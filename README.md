@@ -34,7 +34,14 @@
 
 ## -- About ME
 
--  Currently working in **`MNIST-Neural-Network-From-Scratch`**
+ Hi i am Saksham Yadav
+
+ Just a guy who wants to learn everything from the First Principle. Full of Curiosity with a little spark of madness.
+ Hope you were not confused with this theme , It is inspired from the things that i enjoy the most. (Elden Ring and ASOIAF)
+
+ Currently : Building an MNIST Neural Network from scratch using only raw NumPy math.
+ I enjoy bridging the gap between high-level Python ML and low-level C/C++ memory management.
+ 
 -  Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
 -  Studying **`BACKEND & ML`**
 -  Reachable by raven: **sakxamydv@gmail.com**
@@ -78,7 +85,5 @@
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=150&section=footer" width="100%"/>
-
-<sub> "YOUR WOTH IS NOT GIVEN, IT SHOULD BE MADE" </sub>
 
 </div>
