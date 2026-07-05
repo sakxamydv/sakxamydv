@@ -6,7 +6,7 @@
 
 <br/>
 
- <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=Full+Of+Curiosity+With+Little+Spark+OfMadness;From+The+First+Principles." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=+Full+Of+Curiosity+With+Little+Madness;From+The+First+Principles." alt="Typing SVG" />
 </div>
 
 <p align="center">
