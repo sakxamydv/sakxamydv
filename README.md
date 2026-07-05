@@ -41,31 +41,30 @@
 
 > *"In this House, we do not fear the merge conflict — we ride into it."*
 
-- 🗡️ Currently defending the codebase of **`your-current-project`**
-- 🛡️ Skilled in the old arts of **`Language 1`**, **`Language 2`**, **`Framework`**
-- 🔥 Studying the forbidden scrolls of **`whatever you're learning`**
-- 🐉 Ask me about **your favorite topic** — I will speak of it at great length, unprompted
-- 📜 Reachable by raven: **your.email@example.com**
+- 🗡️ Currently working in **`MNIST-Neural-Network-From-Scratch`**
+- 🛡️ Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
+- 🔥 Studying **`BACKEND & ML`**
+- 📜 Reachable by raven: **sakxamydv@gmail.com**
 
 <br/>
 
 ## ⚜️ Sigils & Bannermen (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Jinja-1a1a1a?style=for-the-badge&logo=jinja&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/DL%20(ANN)-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Perceptrons%20ML-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=c9a227" />
   <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Arch%20%2B%20Hyprland-1a1a1a?style=for-the-badge&logo=archlinux&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=c9a227" />
+  <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=c9a227" />
 </p>
-
-<p align="center"><i>Replace the badges above with your own — edit the <code>logo=</code> names from
-<a href="https://simpleicons.org/">simpleicons.org</a>.</i></p>
-
----
 
 ## 🩸 War Record (GitHub Stats)
 
