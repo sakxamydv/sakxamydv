@@ -92,19 +92,6 @@
   <img src="https://img.shields.io/github/license/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Decree" />
 </p>
 
----
-
-## 🐍 The Serpent's Crawl (Contribution Graph)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sakxamydv/sakxamydv/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph"/>
-</div>
-
-<p align="center"><i>This animates via a GitHub Action —
-<a href="https://github.com/Platane/snk">setup instructions here</a>. Until you add the workflow, this image will 404.</i></p>
-
----
-
 ## 🏹 Bannermen I Ride With (Socials)
 
 <p align="center">
