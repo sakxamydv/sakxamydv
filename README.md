@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-8b0c0c?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/role-full--stack%20developer-c9a227?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/role-AI/ML--Network%20Security-c9a227?style=for-the-badge&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/open%20source-supporter-4a4e57?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
