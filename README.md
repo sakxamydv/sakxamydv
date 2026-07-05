@@ -2,12 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=220&section=header&text=THE%20LANDS%20BETWEEN%20CODE&fontSize=42&fontColor=c9a227&animation=fadeIn&fontAlignY=38&desc=A%20Knight's%20Chronicle%20of%20Fire%20and%20Code&descAlignY=58&descSize=18&descColor=8b8b8b" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=220&section=header&text=RISE%20,%20 Tarnished...&fontSize=42&fontColor=c9a227&animation=fadeIn&fontAlignY=38&desc=A%20Our%20worth%20is%20not%20given%20,%20It%20should%20be%20made%20.&descAlignY=58&descSize=18&descColor=8b8b8b" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=Rise%2C+Tarnished...;Forged+in+fire%2C+tempered+in+logic.;A+throne+of+clean+code+awaits.;Blood%2C+Fire%2C+and+Version+Control." alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=Curiosity%2From+First+Principles" alt="Typing SVG" />
 </div>
 
 <p align="center">
