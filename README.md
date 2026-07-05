@@ -1,11 +1,4 @@
-<!--
-  ⚔️ HOW TO USE THIS README ⚔️
-  1. Replace every "yourusername" with your actual GitHub username.
-  2. Put the /assets folder (knight.svg + dragon.svg) at the root of this repo
-     (this repo = the special one named exactly like your username).
-  3. Swap the placeholder links (Twitter/LinkedIn/portfolio) for your own, or delete them.
-  4. That's it. The Realm awaits.
--->
+
 
 <div align="center">
 
@@ -30,11 +23,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./assets/knight.svg" width="230" alt="Pixel knight animation"/>
+<img src="knight.svg" width="230" alt="Pixel knight animation"/>
 <br/><sub><b>Ser Committer, Shield of the Main Branch</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./assets/dragon.svg" width="330" alt="Pixel dragon animation"/>
+<img src="dragon.svg" width="330" alt="Pixel dragon animation"/>
 <br/><sub><b>The Bug-Eater, Breather of Deploy-Fire</b></sub>
 </td>
 </tr>
@@ -82,11 +75,11 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227"/>
+<img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sakxamydv&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7"/>
 </div>
 
 ---
@@ -94,10 +87,10 @@
 ## 🔥 Siege Engine Status (CI / Deploy)
 
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/yourusername/your-repo/main.yml?style=for-the-badge&label=Main%20Siege%20Engine&labelColor=1a1a1a&color=8b0c0c&logo=githubactions&logoColor=c9a227" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Last%20Raid" />
-  <img src="https://img.shields.io/github/issues/yourusername/your-repo?style=for-the-badge&labelColor=1a1a1a&color=4a4e57&label=Open%20Wounds" />
-  <img src="https://img.shields.io/github/license/yourusername/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Decree" />
+  <img src="https://img.shields.io/github/actions/workflow/status/sakxamydv/your-repo/main.yml?style=for-the-badge&label=Main%20Siege%20Engine&labelColor=1a1a1a&color=8b0c0c&logo=githubactions&logoColor=c9a227" />
+  <img src="https://img.shields.io/github/last-commit/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Last%20Raid" />
+  <img src="https://img.shields.io/github/issues/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=4a4e57&label=Open%20Wounds" />
+  <img src="https://img.shields.io/github/license/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Decree" />
 </p>
 
 ---
@@ -117,13 +110,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=c9a227" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Raven%20Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
+  <a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=c9a227" /></a>
+  <a href="mailto:.sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Raven%20Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
 </p>
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor count"/>
+<img src="https://profile-counter.glitch.me/sakxamydv/count.svg" alt="Visitor count"/>
 
 <br/><br/>
 
