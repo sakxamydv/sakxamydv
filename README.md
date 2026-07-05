@@ -1,17 +1,20 @@
-<!-- HEADER ANIMS & TITLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=180&section=header&text=%E2%9E%A0%20FROM%20FIRST%20PRINCIPLES%20%E2%9E%A0&fontSize=32&fontColor=8a1c1c&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=180&section=header&text=%E2%9E%A0%20THE%20LANDS%20OF%20ASH%20AND%20BLOOD%20%E2%9E%A0&fontSize=32&fontColor=8a1c1c&animation=fadeIn" width="100%" />
   
-  <h1>⚔️ Sir Saksham Yadav: The Alchemist of First Principles 🐉</h1>
   <p align="center">
-    <em>"A spark of absolute madness, forging the matrix from raw iron and pure math."</em>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I4cjRxeXp2Z3F0ZnF0M2JtbzIyeXJ0Yzh0bW13b3p0bW13b3p0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lp71UqhRYibQae1Lch/giphy.gif" width="120" alt="Pixel Knight" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmsyeW9tZ3R0NDlsM3R0N2t4bXR6eXN0bW13b3p0bW13b3p0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7at0q26A4fWpmU6Y/giphy.gif" width="220" alt="Pixel Dragon" />
   </p>
 
-  <!-- DARK AGE BADGES -->
+  <h1>⚔️ Saksham Yadav: Ashen Scholar of the Keep 🐉</h1>
+  <p align="center">
+    <em>"A traveler seeking to understand the universe from its First Principles... with a little spark of madness."</em>
+  </p>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Realm-Arch%20Linux-09090b?style=for-the-badge&logo=arch-linux&logoColor=cc9e43" />
-    <img src="https://img.shields.io/badge/Order-NumPy%20Sorcery-8a1c1c?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/House-Valyrian%20C%2F%2B%2B-cc9e43?style=for-the-badge&logo=c&logoColor=09090b" />
+    <img src="https://img.shields.io/badge/Status-Tarnished%20Alchemist-8a1c1c?style=for-the-badge&logo=rprospect&logoColor=white" />
+    <img src="https://img.shields.io/badge/House-First%20Principles-cc9e43?style=for-the-badge&logo=game-and-watch&logoColor=09090b" />
   </p>
 </div>
 
@@ -20,8 +23,8 @@
 ## 🏛️ The Chronicle of the Damned
 
 ```text
-  ____    _    _  ______  _   _    _    __  __ 
- / ___|  / \  | |/ / ___|| | | |  / \  |  \/  |
- \___ \ / _ \ | ' /\___ \| |_| | / _ \ | |\/| |
-  ___) / ___ \| . \ ___) |  _  |/ ___ \| |  | |
- |____/_/   \_\_|\_\____/|_| |_/_/   \_\_|  |_|
+   ____   _        _       ____  _  __     _____ _   _  _____  _      ____  
+  / ___| | |      / \     / ___|| |/ /    |_   _| | | || ____|| |    / ___| 
+ | |     | |     / _ \   | |    | ' /       | | | |_| ||  _|  | |    \___ \ 
+ | |___  | |___ / ___ \  | |___ | . \       | | |  _  || |___ | |___  ___) |
+  \____| |_____/_/   \_\  \____||_|\_\      |_| |_| |_||_____||_____||____/
