@@ -76,7 +76,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
   <a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=c9a227" /></a>
-  <a href="mailto:.sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Raven%20Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
+  <a href="mailto:.sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
 </p>
 
 <br/><br/>
