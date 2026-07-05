@@ -79,14 +79,10 @@
   <a href="mailto:.sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Raven%20Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
 </p>
 
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/sakxamydv/count.svg" alt="Visitor count"/>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=150&section=footer" width="100%"/>
 
-<sub> *"Fire cannot kill a dragon — and merge conflicts cannot kill a knight."* </sub>
+<sub> "YOUR WOTH IS NOT GIVEN, IT SHOULD BE MADE" </sub>
 
 </div>
