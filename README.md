@@ -43,7 +43,7 @@
 -  Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
 -  Studying **`BACKEND & ML`**
 -  Reachable by raven: **sakxamydv@gmail.com**
--  Website: **<a href="https://www.sakshamyadav.info.np/"><img src="https://img.shields.io/badge/website-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=c9a227" /></a>**
+-  Website: **<a href="https://www.sakshamyadav.info.np/"> sakshamyadav.info.np </a>**
 
 <br/>
 
