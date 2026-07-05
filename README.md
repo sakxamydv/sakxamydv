@@ -15,11 +15,13 @@
 
 ---
 
-## -- About ME
+## -- About ME --
 
- Hi i am Saksham Yadav
+ Hi, I am Saksham Yadav
 
- Just a guy who wants to learn everything from the First Principle. Full of Curiosity with a little spark of madness.
+ Just a guy who wants to learn everything from the First Principle. I started my journey of coding from almost ~6 years ago with basic HTML nad CSS, made few static websites and then focused into learing and mastering the fundamental of C.I have a good undersanding of PYTHON,C and LINUX, which i used as my main OS for 2 years straight (Ubantu & Arch with Hyprland) during which i explored Cybersecurity and Networking and got to be familiar with tools like Wireshark, BurpSuit, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, OSNIT Framework etc etc. & Studied and Practiced Concepts XSS, AuthN & AuthZ, SQLi, RAT, Reverse Shell, MitM, Session token theft, Subnetting, OSI, TCP/UDP, ARP poisoning, Encapsulation and Many More.... 
+
+ You can find more about me and my skills on my website and also down below.
  Hope you were not confused with this theme , It is inspired from the things that i enjoy the most. (Elden Ring and ASOIAF)
 
  Currently : Building an MNIST Neural Network from scratch using only raw NumPy math.
