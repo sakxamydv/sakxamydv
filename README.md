@@ -68,10 +68,10 @@
 
 ## 🩸 War Record (GitHub Stats)
 
-<div align="center">
+<!-- <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=8b0c0c&text_color=c9c9c9&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=c9c9c9"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227"/>
