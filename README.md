@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## ⚔️ Two Sworn Companions Ride With Me ⚔️
+##  Two Sworn Companions Ride With Me 
 
 <table>
 <tr>
@@ -37,18 +37,17 @@
 
 ---
 
-## 🏰 About This Realm
+##  About ME
 
-> *"In this House, we do not fear the merge conflict — we ride into it."*
-
-- 🗡️ Currently working in **`MNIST-Neural-Network-From-Scratch`**
-- 🛡️ Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
-- 🔥 Studying **`BACKEND & ML`**
-- 📜 Reachable by raven: **sakxamydv@gmail.com**
+-  Currently working in **`MNIST-Neural-Network-From-Scratch`**
+-  Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
+-  Studying **`BACKEND & ML`**
+-  Reachable by raven: **sakxamydv@gmail.com**
+-  Website: **sakshamyadav.info.np**
 
 <br/>
 
-## ⚜️ Sigils & Bannermen (Tech Stack)
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" />
@@ -66,36 +65,16 @@
   <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=c9a227" />
 </p>
 
-## 🩸 War Record (GitHub Stats)
-
-<!-- <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=8b0c0c&text_color=c9c9c9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=c9c9c9"/>
-</div> -->
+## GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sakxamydv&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=7"/>
-</div>
-
----
-
-## 🔥 Siege Engine Status (CI / Deploy)
+## SOCIALS
 
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/sakxamydv/your-repo/main.yml?style=for-the-badge&label=Main%20Siege%20Engine&labelColor=1a1a1a&color=8b0c0c&logo=githubactions&logoColor=c9a227" />
-  <img src="https://img.shields.io/github/last-commit/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Last%20Raid" />
-  <img src="https://img.shields.io/github/issues/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=4a4e57&label=Open%20Wounds" />
-  <img src="https://img.shields.io/github/license/sakxamydv/your-repo?style=for-the-badge&labelColor=1a1a1a&color=c9a227&label=Decree" />
-</p>
-
-## 🏹 Bannermen I Ride With (Socials)
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
+  <a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
   <a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=c9a227" /></a>
   <a href="mailto:.sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Raven%20Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" /></a>
 </p>
@@ -108,6 +87,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=150&section=footer" width="100%"/>
 
-<sub>🔥 *"Fire cannot kill a dragon — and merge conflicts cannot kill a knight."* 🔥</sub>
+<sub> *"Fire cannot kill a dragon — and merge conflicts cannot kill a knight."* </sub>
 
 </div>
