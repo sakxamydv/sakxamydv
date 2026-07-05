@@ -69,8 +69,8 @@
 ## 🩸 War Record (GitHub Stats)
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=8b0c0c&text_color=c9c9c9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=c9c9c9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=8b0c0c&text_color=c9c9c9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=c9c9c9"/>
 </div>
 
 <div align="center">
