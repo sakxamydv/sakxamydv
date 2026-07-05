@@ -18,7 +18,7 @@
 
 <div align="center">
 
-##  Two Sworn Companions Ride With Me 
+##  ------- Two Sworn Companions Ride With Me -------
 
 <table>
 <tr>
@@ -37,17 +37,17 @@
 
 ---
 
-##  About ME
+## -- About ME
 
 -  Currently working in **`MNIST-Neural-Network-From-Scratch`**
 -  Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
 -  Studying **`BACKEND & ML`**
 -  Reachable by raven: **sakxamydv@gmail.com**
--  Website: **sakshamyadav.info.np**
+-  Website:  **<a href="https://www.sakshamyadav.info.np/p">**
 
 <br/>
 
-## Tech Stack
+## -- Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" />
@@ -65,13 +65,13 @@
   <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=c9a227" />
 </p>
 
-## GitHub Stats
+## -- GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227"/>
 </div>
 
-## SOCIALS
+## -- SOCIALS
 
 <p align="center">
   <a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
