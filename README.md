@@ -25,7 +25,7 @@
  Currently : Building an MNIST Neural Network from scratch using only raw NumPy math.
  I enjoy bridging the gap between high-level Python ML and low-level C/C++ memory management.
  
--  Skilled in the old arts of **`DL`**, **`PYTHON`**, **`FAST API`**
+-  Good at **`DL`**, **`PYTHON`**, **`FAST API`**
 -  Studying **`BACKEND & ML`**
 -  Reachable by raven: **sakxamydv@gmail.com**
 -  Website: **<a href="https://www.sakshamyadav.info.np/"> sakshamyadav.info.np </a>**
@@ -38,11 +38,11 @@
 <tr>
 <td align="center" width="50%">
 <img src="knight.svg" width="230" alt="Pixel knight animation"/>
-<br/><sub><b> Daemon with his blackfyre, guards my github </b></sub>
+<br/><sub><b> Daemon with his blackfyre </b></sub>
 </td>
 <td align="center" width="50%">
 <img src="dragon.svg" width="330" alt="Pixel dragon animation"/>
-<br/><sub><b>Balerion, Keeps an aerial view of my github</b></sub>
+<br/><sub><b>Balerion</b></sub>
 </td>
 </tr>
 </table>
