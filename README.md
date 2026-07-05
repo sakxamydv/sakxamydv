@@ -97,7 +97,7 @@
 ## 🐍 The Serpent's Crawl (Contribution Graph)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph"/>
+<img src="https://raw.githubusercontent.com/sakxamydv/sakxamydv/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution graph"/>
 </div>
 
 <p align="center"><i>This animates via a GitHub Action —
