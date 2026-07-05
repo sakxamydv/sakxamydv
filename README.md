@@ -1,6 +1,6 @@
 <!-- HEADER ANIMS & TITLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=180&section=header&text=%E2%9E%A0%20THE%20LANDS%20OF%20ASH%20AND%20BLOOD%20%E2%9E%A0&fontSize=32&fontColor=8a1c1c&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=180&section=header&text=%E2%9E%A0%20FROM%20THE%20FIRST%20PRINCIPAL%20%E2%9E%A0&fontSize=32&fontColor=8a1c1c&animation=fadeIn" width="100%" />
   
   <!-- GUARANTEED WORKING PIXEL ART ROW -->
   <p align="center">
