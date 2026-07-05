@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=220&section=header&text=RISE%20,%20 Tarnished...&fontSize=42&fontColor=c9a227&animation=fadeIn&fontAlignY=38&desc=A%20Our%20worth%20is%20not%20given%20,%20It%20should%20be%20made%20.&descAlignY=58&descSize=18&descColor=8b8b8b" width="100%"/>
+<<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=220&section=header&text=RISE%2C%20Tarnished...&fontSize=42&fontColor=c9a227&animation=fadeIn&fontAlignY=38&desc=Our%20worth%20is%20not%20given%2C%20it%20should%20be%20made.&descAlignY=58&descSize=18&descColor=8b8b8b" width="100%"/>
 
 <br/>
 
