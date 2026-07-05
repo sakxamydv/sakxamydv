@@ -23,11 +23,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="knight.svg" width="230" alt="Pixel knight animation"/>
+<img src="sakxamydv/knight.svg" width="230" alt="Pixel knight animation"/>
 <br/><sub><b>Ser Committer, Shield of the Main Branch</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="dragon.svg" width="330" alt="Pixel dragon animation"/>
+<img src="sakxamydv/dragon.svg" width="330" alt="Pixel dragon animation"/>
 <br/><sub><b>The Bug-Eater, Breather of Deploy-Fire</b></sub>
 </td>
 </tr>
