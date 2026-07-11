@@ -10,20 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate Images
     
+    # 🔑 FIX: This explicitly tells GitHub to give this specific run Write Access
+    permissions:
+      contents: write
+
     steps:
-      # 🔑 Fix: Tell the checkout step to use your custom token for pushing code later
+      # Tell the checkout step to use your custom token
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      # 🏙️ Renders the 3D Isometric City
+      # Renders the 3D Isometric City
       - name: GitHub Profile 3D City Graph
         uses: yoshi389111/github-profile-3d-contrib@0.9.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # 📤 Commits and pushes the 3D map right back into your branch
+      # Commits and pushes the 3D map right back into your branch
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
