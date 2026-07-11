@@ -3,16 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=E5E5E5&center=true&vCenter=true&width=600&lines=SAKSHAM+YADAV;BACKEND+%2F+ML+%2F+SYSTEMS;BUILT+FROM+FIRST+PRINCIPLES" alt="Typing SVG" />
 
 
-<div>
-### 🏙️ My 3D Contribution City
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
-</p>
 
-
-
-  
-</div>
 <br/>
 
 <img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
@@ -21,8 +12,6 @@
 <img src="https://img.shields.io/badge/-LINUX-000000?style=flat-square&color=4f4f4f&labelColor=4f4f4f" height="26"/>
 
 </div>
-
-[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=sakxamydv)
 
 <br/>
 
@@ -34,7 +23,18 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 
 <br/>
 
-## 02 — WHAT I'M DOING NOW
+## 02 — CONTRIBUTIONS 
+<div>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
+</p>
+
+
+
+  
+</div>
+
+## 03 — WHAT I'M DOING NOW
 
 ```
 > designing an MNIST classifier from raw NumPy — no Keras, no shortcuts
@@ -45,7 +45,7 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 
 <br/>
 
-## 03 — STACK
+## 04 — STACK
 
 <div align="center">
 
@@ -58,11 +58,7 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 | **Environment** | Arch Linux · Hyprland · Ubuntu |
 
 </div>
-
 <br/>
-
-### 🛠️ Tech Stack & Tools
-
 <p align="left">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -85,7 +81,7 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 </p>
 
 
-## 04 — ACTIVITY
+## 05 — ACTIVITY
 
 <div align="center">
 
@@ -94,14 +90,8 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 
 <br/>
 
-## TOP LANGS
-<div>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark)
-  
-</div>
 
-## 05 — REACH ME
+## 06 — REACH ME
 
 <div align="center">
 
