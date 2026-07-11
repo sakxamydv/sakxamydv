@@ -9,16 +9,6 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
 </p>
 
-### 🌆 My GitHub Skyline
-<p align="center">
-  <img src="./github-skyline.svg" alt="My GitHub Skyline" width="100%">
-</p>
-</p>
-
-### 🏙️ My 3D Contribution City
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
-</p>
 
 
   
