@@ -48,15 +48,43 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 
 <br/>
 
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Frameworks & Data Science -->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B80000?style=for-the-badge&logo=jinja&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Systems & Networking -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
+
+
 ## 04 — ACTIVITY
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=00000000&stroke=2b2b2b&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=8a8a8a&dates=8a8a8a" alt="GitHub Streak Stats" width="70%"/>
-![GitHub Streak](https://streak-stats.demolab.com?user=sakxamydv&theme=dark)
 </div>
 
 <br/>
+
+## TOP LANGS
+<div>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark)
+</div>
 
 ## 05 — REACH ME
 
