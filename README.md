@@ -11,6 +11,8 @@
 
 </div>
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sakxamydv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 
 ## 01 — WHO
