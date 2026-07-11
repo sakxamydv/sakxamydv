@@ -1,104 +1,55 @@
+<!-- Centered Header with Dynamic Typing Animation -->
 <div align="center">
-
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=220&section=header&text=RISE%2C%20TARNISHED...&fontSize=42&fontColor=c9a227&animation=fadeIn&fontAlignY=38&desc=Our%20worth%20is%20not%20given%2C%20it%20should%20be%20made.&descAlignY=58&descSize=18&descColor=8b8b8b" width="100%"/>
-
-<!-- DYNAMIC TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=+Full+Of+Curiosity+With+Little+Madness;From+The+First+Principles." alt="Typing SVG" />
-
-<!-- STATUS COVENANTS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/VITALITY-ACTIVE-8b0c0c?style=for-the-badge&labelColor=1a1a1a" alt="Status" />
-  <img src="https://img.shields.io/badge/ATTUNEMENT-AI%2FML%20%E2%A8%B1%20SEC-c9a227?style=for-the-badge&labelColor=1a1a1a" alt="Role" />
-  <img src="https://img.shields.io/badge/COVENANT-OPEN%20SOURCE-4a4e57?style=for-the-badge&labelColor=1a1a1a" alt="Covenant" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+a+Future+Computer+Scientist%EF%B8%8F;Passionate+about+Algorithms+%26+Systems;Building+Visual+and+Interactive+Web+Apps;Welcome+to+my+Digital+Workspace!" alt="Typing SVG" />
+  
+  <p align="center">
+    <strong>Turn ideas into clean, functional code.</strong>
+  </p>
 </div>
 
 ---
 
-## ─── ⚔️ The Chronicles of Saksham Yadav ───
+### 💫 About Me
+
+- 🚀 Currently diving deep into **Computer Science fundamentals**, algorithms, and systems architectures.
+- 🎨 Interested in the intersection of structural logic and clean visual design.
+- ⚙️ Love optimizing logic workflows and engineering precise automation pipelines.
+- 📚 Currently mastering data structures and preparing for upcoming academic milestones.
+
+---
+
+### 💻 Tech Stack & Tools
 
 <p align="left">
-I am a builder who seeks to decipher the fundamental layers of execution from <b>First Principles</b>. My forge was kindled 6 winters ago with elementary web syntax (<code>HTML</code> & <code>CSS</code>), fashioning static, surface-level structures before diving into the foundational abysses of <b>The C Language</b> to grasp low-level mechanics.
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br/>
+
+  <!-- Developer Tools & Environment -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p align="left">
-Driven by deep curiosity, I spent two consecutive years entirely cloistered within the terminal—taming <b>Linux (Ubuntu & Arch driven by Hyprland)</b>. Within those text-only environments, I mastered the hidden arts of Network Security and Vulnerability Analysis, analyzing traffic and intercepting flows using <i>Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, and Ettercap</i>. I actively study structural security flaws from <i>XSS and SQLi</i> to <i>ARP Poisoning, Session Theft, and Man-in-the-Middle attacks</i> straight across the <i>OSI Model and Subnetting</i>.
-</p>
+---
 
-<blockquote>
-  <b>Current Quest:</b> I am weaving the robust execution architecture of the <b>BACKEND</b> with the predictive foresight of <b>ML / DL / NLP / CV</b> to synthesize highly optimized systems.
-</blockquote>
+### 📊 GitHub Analytics
 
 <div align="center">
-  <h4> 🛡️ Inspired by the brutal lore of <i>Elden Ring</i> and the grit of <i>A Song of Ice and Fire</i> </h4>
-</div>
-
----
-
-### 🔮 Active Sorceries & Projects
-
-- 🧠 **The Golden Order Architecture:** Forging an **MNIST Neural Network** from absolute scratch using raw NumPy mathematical matrices. No high-level abstractions, just pure first-principles calculus.
-- ⚡ **Affinity & Masteries:** Highly proficient in `Deep Learning`, `Python`, and `FastAPI`.
-- 📖 **Study Scrolls:** Transcribing complex structures in Advanced Backend Engineering & Deep Learning Optimization.
-- 🦅 **Reachable by Raven:** [sakxamydv@gmail.com](mailto:sakxamydv@gmail.com)
-- 🌐 **The Keep:** [sakshamyadav.info.np](https://www.sakshamyadav.info.np/)
-
----
-
-## ─── 🐉 Meet My Buddies ───
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center" valign="bottom" width="50%">
-      <img src="knight.svg" width="220" alt="Pixel knight animation"/>
-      <br/>
-      <code><b>Daemon with his Blackfyre</b></code>
-      <br/>
-      <small><i>"The rogue prince awaits the signal."</i></small>
-    </td>
-    <td align="center" valign="bottom" width="50%">
-      <img src="dragon.svg" width="310" alt="Pixel dragon animation"/>
-      <br/>
-      <code><b>Balerion</b></code>
-      <br/>
-      <small><i>"His fire forged the iron throne."</i></small>
-    </td>
-  </tr>
-</table>
-
----
-
-## ─── 📜 The Arsenal (Tech Stack) ───
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Jinja-1a1a1a?style=for-the-badge&logo=jinja&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/DL%20(ANN)-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Perceptrons%20ML-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/C%2B%2B-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Arch%20%2B%20Hyprland-1a1a1a?style=for-the-badge&logo=archlinux&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=c9a227" />
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=c9a227" />
-</p>
-
----
-
-## ─── 📊 Battle Scars (GitHub Stats) ───
-
-<div align="center">
-  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sakxamydv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=8b8b8b&icon_color=8b0c0c" alt="Saksham's GitHub Stats" width="100%"/>
+      <td>
+        <!-- GitHub Stats Card (Replace 'your-username' with your actual GitHub username) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" height="180px" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227" alt="GitHub Streak Stats" width="100%"/>
+      <td>
+        <!-- Contribution Streak Card (Replace 'your-username' with your actual GitHub username) -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="Your Streak Stats" height="180px" />
       </td>
     </tr>
   </table>
@@ -106,26 +57,17 @@ Driven by deep curiosity, I spent two consecutive years entirely cloistered with
 
 ---
 
-## ─── 🌐 Parley (Socials) ───
+### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/saksham-yadav-684042378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" alt="LinkedIn" />
+<p align="left">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/sakxamydv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=x&logoColor=c9a227" alt="Twitter" />
-  </a>
-  <a href="mailto:sakxamydv@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c9a227" alt="Email" />
-  </a>
-  <a href="https://www.kaggle.com/sakxamydv" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" alt="Kaggle" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br/>
-
 <div align="center">
-  <!-- FOOTER WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b0a0a,100:1a1a1a&height=150&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
