@@ -42,7 +42,7 @@ mood       curious, mildly reckless
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img src="assets/stack-dark.svg" width="100%" alt="layered stack diagram">
+  <img src="stack-dark.svg" width="100%" alt="layered stack diagram">
 </picture>
 
 </div>
