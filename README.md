@@ -17,10 +17,13 @@
 
 ## 01 — WHO
 
-I break systems down until they stop being mysterious, then rebuild them from scratch. Six years ago that meant basic web pages. Today it means writing neural networks in raw NumPy and reading packets off the wire in Wireshark.
+Hi, I am Saksham Yadav
 
-No shortcuts, no black boxes. If I can't explain how it works, I haven't learned it yet.
+Just a guy who wants to learn everything from First Principles. I started my coding journey about 6 years ago with basic HTML and CSS, built a few static websites, and then shifted my focus to learning and mastering the fundamentals of C.
 
+I have a deep understanding of Python, C, and Linux, which I used as my main OS for 2 years straight (Ubuntu & Arch with Hyprland). During that time, I explored Cybersecurity and Networking, getting hands on with tools like Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, and the OSINT Framework. I've studied and practiced concepts like XSS, AuthN & AuthZ, SQLi, RATs, Reverse Shells, MitM, Session token theft, Subnetting, OSI model, TCP/UDP, ARP poisoning, and Encapsulation.
+
+And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of both.
 <br/>
 
 ## 02 — CONTRIBUTIONS 
