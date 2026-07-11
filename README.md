@@ -13,47 +13,43 @@
 
 <div align="center">
 
-## ─── About Me ───
+## ─── ⚔️ The Chronicles of Saksham Yadav ───
 
-Hi, I am **Saksham Yadav**
-
-Just a guy who wants to learn everything from **First Principles**. I started my coding journey about 6 years ago with basic HTML and CSS, built a few static websites, and then shifted my focus to learning and mastering the fundamentals of C. 
-
-I have a deep understanding of **Python, C, and Linux**, which I used as my main OS for 2 years straight (Ubuntu & Arch with Hyprland). During that time, I explored Cybersecurity and Networking, getting hands on with tools like *Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, and the OSINT Framework*. I've studied and practiced concepts like *XSS, AuthN & AuthZ, SQLi, RATs, Reverse Shells, MitM, Session token theft, Subnetting, OSI model, TCP/UDP, ARP poisoning, and Encapsulation*. 
-
-And Right Now, I am mastering **BACKEND** and **ML/DL/NLP/CV** To make the best out of both.
-
- <h4> Theme it's inspired by the things I love most (**Elden Ring** and **ASOIAF**) </h4>
+*“A guy who seeks to decipher the runes of reality from **First Principles**.”*
 
 </div>
 
-### Currently Working On
-* **Building an MNIST Neural Network** from scratch using only raw NumPy math.
-* Good at: **`DL`**, **`Python`**, **`FastAPI`**
-* Studying: **`Backend & ML`**
-* Reachable by raven: **[sakxamydv@gmail.com](mailto:sakxamydv@gmail.com)**
-* Website: **[sakshamyadav.info.np](https://www.sakshamyadav.info.np/)**
+My forge was kindled 6 years ago with basic HTML & CSS, casting static structures before plunging deep into the foundational abysses of **C** and low-level mechanics. 
+
+Like an ancient scholar navigating complex incantations, I spent 2 straight years dwelling entirely within the terminal—taming **Linux (Ubuntu & Arch with Hyprland)**. There, I mastered the dark arts of Cybersecurity and Networking, intercepting the ethereal currents of data with tools like *Wireshark, Burp Suite, Nmap, Metasploit, and Scapy*. I have unmasked vulnerabilities from *XSS and SQLi* to *ARP Poisoning, Session Theft, and MitM attacks*, mapping the realm via the *OSI Model and Subnetting*.
+
+**Current Quest:** I am currently weaving the brute-force architecture of the **BACKEND** with the predictive foresight of **ML / DL / NLP / CV** to synthesize something legendary.
+
+<div align="center">
+ <h4> 🛡️ Inspired by the brutal lore of <i>Elden Ring</i> and the gritty realism of <i>ASOIAF</i> </h4>
+</div>
+
+---
+
+### 🔮 Active Sorceries & Projects
+* 🧠 **The Golden Order Architecture:** Forging an **MNIST Neural Network** from absolute scratch using nothing but raw NumPy mathematical matrices. No high-level frameworks, just pure first-principles calculus.
+* ⚡ **Affinity:** Highly proficient in **`DL`**, **`Python`**, and **`FastAPI`**.
+* 📖 **Study Scroll:** Transcribing advanced structures in **`Backend Engineering`** & **`Machine Learning`**.
+* 🦅 **Reachable by Raven:** **[sakxamydv@gmail.com](mailto:sakxamydv@gmail.com)**
+* 🌐 **The Keep:** **[sakshamyadav.info.np](https://www.sakshamyadav.info.np/)**
 
 <br/>
 
 <div align="center">
 
-## ─── Meet My Buddies ───
+## ─── 🐉 Meet My Buddies ───
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="knight.svg" width="230" alt="Pixel knight animation"/>
-<br/><sub><b>Daemon with his Blackfyre</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="dragon.svg" width="330" alt="Pixel dragon animation"/>
-<br/><sub><b>Balerion</b></sub>
-</td>
-</tr>
-</table>
+| ⚔️ Daemon & Blackfyre | 🔥 Balerion the Black Dread |
+| :---: | :---: |
+| <img src="knight.svg" width="220" alt="Pixel knight animation"/> | <img src="dragon.svg" width="300" alt="Pixel dragon animation"/> |
+| *“The rogue prince awaits the signal.”* | *“His fire forged the iron throne.”* |
 
-## ─── Tech Stack ───
+## ─── 📜 The Arsenal (Tech Stack) ───
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=c9a227" />
@@ -70,11 +66,11 @@ And Right Now, I am mastering **BACKEND** and **ML/DL/NLP/CV** To make the best 
   <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=c9a227" />
 </p>
 
-## ─── GitHub Stats ───
+## ─── 📊 Battle Scars (GitHub Stats) ───
 
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=0d1117&stroke=c9a227&ring=8b0c0c&fire=c9a227&currStreakLabel=c9a227" alt="GitHub Streak Stats"/>
 
-## ─── Socials ───
+## ─── 🌐 Parley (Socials) ───
 
 <p align="center">
   <a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c9a227" /></a>
