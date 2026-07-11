@@ -53,7 +53,7 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=00000000&stroke=2b2b2b&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=8a8a8a&dates=8a8a8a" alt="GitHub Streak Stats" width="70%"/>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sakxamydv&theme=dark)
 </div>
 
 <br/>
