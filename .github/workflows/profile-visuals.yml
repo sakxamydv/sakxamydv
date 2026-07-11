@@ -1,0 +1,36 @@
+name: Generate Profile Visuals
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every night at midnight
+  workflow_dispatch: # Allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Images
+    steps:
+      - uses: actions/checkout@v4
+
+      # 🌌 1. Renders the RepoVerse Solar System
+      - name: RepoVerse Solar System Graph
+        uses: nimaldanyathk/RepoVerse@v1.0.1
+        with:
+          user_name: ${{ github.repository_owner }}
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 🏙️ 2. Renders the 3D Isometric City
+      - name: GitHub Profile 3D City Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 📤 3. Commits the newly generated images back into your repository
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update profile visualization assets"
+          git push
