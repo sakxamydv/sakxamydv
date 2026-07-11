@@ -2,6 +2,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=E5E5E5&center=true&vCenter=true&width=600&lines=SAKSHAM+YADAV;BACKEND+%2F+ML+%2F+SYSTEMS;BUILT+FROM+FIRST+PRINCIPLES" alt="Typing SVG" />
 
+
+<div>
+
+### 🌌 My RepoVerse Solar System
+<p align="center">
+  <img src="./repoverse.svg" alt="My RepoVerse Solar System" width="100%">
+</p>
+
+### 🏙️ My 3D Contribution City
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
+</p>
+
+
+  
+</div>
 <br/>
 
 <img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
