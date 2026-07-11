@@ -51,7 +51,7 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,7 +83,9 @@ No shortcuts, no black boxes. If I can't explain how it works, I haven't learned
 
 ## TOP LANGS
 <div>
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakxamydv&layout=compact&theme=dark)
+  
 </div>
 
 ## 05 — REACH ME
