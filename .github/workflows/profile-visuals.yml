@@ -9,15 +9,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate Images
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      # 🌌 1. Renders the RepoVerse Solar System
-      - name: RepoVerse Solar System Graph
-        uses: nimaldanyathk/RepoVerse@v1.0.1
+      # 🌌 New Cosmic/Galaxy Visualizer (using the robust Metrics engine)
+      - name: GitHub Skyline/Galaxy Metrics
+        uses: lowlighter/metrics@latest
         with:
-          user_name: ${{ github.repository_owner }}
           token: ${{ secrets.GH_TOKEN }}
+          filename: github-galaxy.svg
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: current
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
 
       # 🏙️ 2. Renders the 3D Isometric City
       - name: GitHub Profile 3D City Graph
