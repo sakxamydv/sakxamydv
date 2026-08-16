@@ -37,7 +37,7 @@ And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of b
 ## 02 — CONTRIBUTIONS 
 <div>
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="100%">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="My 3D Contribution City" width="75%">
 </p>
 
 
