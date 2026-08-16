@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------------------
 
-<img src="Elden_Ring_transparent.png" height="26"/>
+<img src="Elden_Ring_transparent.png"/>
 
 
 
