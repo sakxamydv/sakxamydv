@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------
 
 
-<img src="Elden_Ring_transparent.png" height="200"/>
+<img src="ChatGPT Image Aug 16, 2026, 02_11_08 PM.png" height="200"/>
 
 
 
