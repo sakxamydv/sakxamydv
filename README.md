@@ -4,6 +4,14 @@
 
 ----------------------------------------------------------------------------------------
 
+<img src="Elden_Ring_transparent.png" height="26"/>
+
+
+
+
+
+
+
 <br/>
 
 <img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
