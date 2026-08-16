@@ -3,8 +3,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=E5E5E5&center=true&vCenter=true&width=600&lines=SAKSHAM+YADAV;BACKEND+%2F+ML+%2F+SYSTEMS;BUILT+FROM+FIRST+PRINCIPLES" alt="Typing SVG" />
 
 ----------------------------------------------------------------------------------------
+<br/>
 
+<img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
+<img src="https://img.shields.io/badge/-MACHINE%20LEARNING-000000?style=flat-square&color=2b2b2b&labelColor=2b2b2b" height="26"/>
+<br/>
 <img src="Elden_Ring_transparent.png" height="200"/>
+<br/>
+<img src="https://img.shields.io/badge/-SECURITY-000000?style=flat-square&color=3d3d3d&labelColor=3d3d3d" height="26"/>
+<img src="https://img.shields.io/badge/-LINUX-000000?style=flat-square&color=4f4f4f&labelColor=4f4f4f" height="26"/>
 
 
 
@@ -13,11 +20,6 @@
 
 
 <br/>
-
-<img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
-<img src="https://img.shields.io/badge/-MACHINE%20LEARNING-000000?style=flat-square&color=2b2b2b&labelColor=2b2b2b" height="26"/>
-<img src="https://img.shields.io/badge/-SECURITY-000000?style=flat-square&color=3d3d3d&labelColor=3d3d3d" height="26"/>
-<img src="https://img.shields.io/badge/-LINUX-000000?style=flat-square&color=4f4f4f&labelColor=4f4f4f" height="26"/>
 
 </div>
 
