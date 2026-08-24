@@ -1,32 +1,26 @@
-name: Generate Profile Visuals
+name: ASCII profile card
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  card:
     runs-on: ubuntu-latest
-    name: Generate Images
-    
-    permissions:
-      contents: write
-
     steps:
-      # Step 1: Fast checkout
-      - uses: actions/checkout@v4
-
-      # Step 2: Render the 3D Isometric City (Light/Green style)
-      - name: GitHub Profile 3D City Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.9.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # Step 3: Safely commit and push the generated files
-      - name: Commit & Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: hu553in/ascii-profile-card@v1
         with:
-          commit_message: "Update profile 3D visuals"
-          file_pattern: "profile-3d-contrib/*"
+          config: |
+            card:
+              lines:
+                - { type: header, text: 'Your Name' }
+                - { type: kv, key: Role, value: 'What you do' }
+                - { type: section, title: 'GitHub stats' }
+                - { type: kv, key: Stars, value: '{stars}' }
