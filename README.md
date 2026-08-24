@@ -11,7 +11,29 @@
 
 
 
+```text
+your_name@github  ~
+──────────────────────────────────────
+OS: ..................... Windows / Linux / macOS
+IDE: ..................... VS Code
+Languages.Programming: .. Go, Python, C, C++
+Currently learning: ..... Go (backend & systems)
+Goal: .................... AI / ML, taking the backend
+                            route to get there
+──────────────────────────────────────
+```
 
+### 📫 Contact
+- Email: your.email@example.com
+- LinkedIn: [your-name](https://linkedin.com/in/your-name)
+
+### 📊 GitHub Stats
+<!--START_SECTION:stats-->
+Repos: .......... 0 | Stars: ............ 0
+Followers: ...... 0 | Commits (last yr): . 0
+<!--END_SECTION:stats-->
+
+<sub>Stats above update automatically once a day via GitHub Actions.</sub>
 
 
 <br/>
