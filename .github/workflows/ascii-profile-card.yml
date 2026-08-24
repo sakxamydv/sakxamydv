@@ -1,0 +1,26 @@
+name: ASCII profile card
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: hu553in/ascii-profile-card@v1
+        with:
+          config: |
+            card:
+              lines:
+                - { type: header, text: 'Your Name' }
+                - { type: kv, key: Role, value: 'What you do' }
+                - { type: section, title: 'GitHub stats' }
+                - { type: kv, key: Stars, value: '{stars}' }
