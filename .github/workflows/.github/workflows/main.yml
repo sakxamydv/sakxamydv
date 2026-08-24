@@ -1,57 +1,40 @@
-name: Generate ASCII Profile Card
-
+name: README build
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
+    - cron: "0 4 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate ASCII Profile Card
-        uses: hu553in/ascii-profile-card@v1
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
-          config: |
-            card:
-              art:
-                - "               ,cM@%%@%N%Nw,,"
-                - "          m*`|`*%gNM=]mM%g||\\%,"
-                - "         p!`   `! `'''```||jhlj%w"
-                - "       ,@L ``,,,,,,,  ``'|[j%l]%."
-                - "      ['  ,wpp`  `' `::,:-. '|%g"
-                - "    {[]):'  /@@@@pp.  .'|'l' . =''`}'"
-                - "     }..   @%@@@@@@@@%*§Op`   ,.- *'"
-                - "    }'f  %@@@@%%%%%k%h  '*||mkr   *"
-                - "    }`r   .~3s%%` jkk`kh ~nrn=|i  ;"
-                - "   ||>)|  ,   ,        `\"!  L'':!"
-                - "   ||||p. _ , / @@     ,;\\nmy  ,~"
-                - "   ||=j ooooo, ,,%. , jmgpmb%|j  j"
-                - "   |\\>|&  ,    (---_---_) .     ,["
-                - "      ;' %  . .---\\__/---.  ]}[@"
-                - "      |j [```\\--- %sHM---/```]!"
-                - "      [jkl,   -%sHM% `-   ; '"
-                - "        %\\k   %%%%`       ,';"
-                - "         `%`@icnkkki|[   '"
-                - "            |'| \\j \\ j ' ; |"
-                - "          . % ,,,,,,,` ,:-/ "
-                - "        /|  |            /   \\"
-                - "       / |  |    /---\\  /     \\"
-                - "  , - '  |  |   / - /   |      \\ _"
-            header:
-              text: "developer@github"
-            section:
-              title: "Developer Profile"
-            kv:
-              - key: "OS"
-                value: "Linux / Web"
-              - key: "Status"
-                value: "Building cool stuff"
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output-branch
+          fetch-depth: 1
+      - name: Get Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Configure pip cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+      - name: Update README file
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+        run: python today.py
+      - name: Commit
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "github-actions-bot@andrew6rant.github.io"
+          git config --global user.name "Andrew6rant/GitHub-Actions-Bot"
+          git commit -m "Updated README" -a || echo "No changes to commit"
+          git push
