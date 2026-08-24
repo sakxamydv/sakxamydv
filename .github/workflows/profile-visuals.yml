@@ -1,26 +1,57 @@
-name: ASCII profile card
+name: Generate ASCII Profile Card
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  card:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: hu553in/ascii-profile-card@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate ASCII Profile Card
+        uses: hu553in/ascii-profile-card@v1
         with:
           config: |
             card:
-              lines:
-                - { type: header, text: 'Your Name' }
-                - { type: kv, key: Role, value: 'What you do' }
-                - { type: section, title: 'GitHub stats' }
-                - { type: kv, key: Stars, value: '{stars}' }
+              art:
+                - "               ,cM@%%@%N%Nw,,"
+                - "          m*`|`*%gNM=]mM%g||\\%,"
+                - "         p!`   `! `'''```||jhlj%w"
+                - "       ,@L ``,,,,,,,  ``'|[j%l]%."
+                - "      ['  ,wpp`  `' `::,:-. '|%g"
+                - "    {[]):'  /@@@@pp.  .'|'l' . =''`}'"
+                - "     }..   @%@@@@@@@@%*§Op`   ,.- *'"
+                - "    }'f  %@@@@%%%%%k%h  '*||mkr   *"
+                - "    }`r   .~3s%%` jkk`kh ~nrn=|i  ;"
+                - "   ||>)|  ,   ,        `\"!  L'':!"
+                - "   ||||p. _ , / @@     ,;\\nmy  ,~"
+                - "   ||=j ooooo, ,,%. , jmgpmb%|j  j"
+                - "   |\\>|&  ,    (---_---_) .     ,["
+                - "      ;' %  . .---\\__/---.  ]}[@"
+                - "      |j [```\\--- %sHM---/```]!"
+                - "      [jkl,   -%sHM% `-   ; '"
+                - "        %\\k   %%%%`       ,';"
+                - "         `%`@icnkkki|[   '"
+                - "            |'| \\j \\ j ' ; |"
+                - "          . % ,,,,,,,` ,:-/ "
+                - "        /|  |            /   \\"
+                - "       / |  |    /---\\  /     \\"
+                - "  , - '  |  |   / - /   |      \\ _"
+            header:
+              text: "developer@github"
+            section:
+              title: "Developer Profile"
+            kv:
+              - key: "OS"
+                value: "Linux / Web"
+              - key: "Status"
+                value: "Building cool stuff"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output-branch
