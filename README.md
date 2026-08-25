@@ -29,7 +29,7 @@
       <br/>
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <h3>Saksham Yadav</h3>
       <p><i>Learning computer science from first principles.</i></p>
 
