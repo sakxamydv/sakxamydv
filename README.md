@@ -4,8 +4,6 @@
 
 ----------------------------------------------------------------------------------------
 
-<div style="margin-right: auto; margin-left: 0;">
-<img  src="ascii-diagram (6).svg" width="400" height="400"/> </div>
 
 
 <br/>
@@ -20,6 +18,14 @@
 <br/>
 
 ## 01 — WHO
+<table>
+  <tr>
+    <td width="40%" align="center" valign="top">
+      <img src="ascii-diagram (6).svg" width="100%"/>
+    </td>
+    <td width="60%" valign="top">
+
+## 01 — WHO
 
 Hi, I am Saksham Yadav
 
@@ -28,8 +34,12 @@ Just a guy who wants to learn everything from First Principles. I started my cod
 I have a deep understanding of Python, C, and Linux, which I used as my main OS for 2 years straight (Ubuntu & Arch with Hyprland). During that time, I explored Cybersecurity and Networking, getting hands on with tools like Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, and the OSINT Framework. I've studied and practiced concepts like XSS, AuthN & AuthZ, SQLi, RATs, Reverse Shells, MitM, Session token theft, Subnetting, OSI model, TCP/UDP, ARP poisoning, and Encapsulation.
 
 And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of both.
-<br/>
 
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 
 
