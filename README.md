@@ -8,14 +8,6 @@
 <img src="GoldenOrder.png" height="200"/>
 </div>
 
-<div align="right">
-<img src="ascii-diagram (6).svg" width="400" height="400"/>
-</div>
-                                                                                                    
-                                                                                                    
-                                                                                                
-
-
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/-BACKEND-000000?style=flat-square&color=1a1a1a&labelColor=1a1a1a" height="26"/>
@@ -27,6 +19,13 @@
 
 <br/>
 
+<table>
+  <tr>
+    <td width="40%" align="center" valign="top">
+      <img src="ascii-diagram (6).svg" width="100%"/>
+    </td>
+    <td width="60%" valign="top">
+
 ## 01 — WHO
 
 Hi, I am Saksham Yadav
@@ -36,87 +35,11 @@ Just a guy who wants to learn everything from First Principles. I started my cod
 I have a deep understanding of Python, C, and Linux, which I used as my main OS for 2 years straight (Ubuntu & Arch with Hyprland). During that time, I explored Cybersecurity and Networking, getting hands on with tools like Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, and the OSINT Framework. I've studied and practiced concepts like XSS, AuthN & AuthZ, SQLi, RATs, Reverse Shells, MitM, Session token theft, Subnetting, OSI model, TCP/UDP, ARP poisoning, and Encapsulation.
 
 And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of both.
+
+    </td>
+  </tr>
+</table>
+
 <br/>
-
-
-
-
-
-  
-</div>
 
 ## 03 — WHAT I'M DOING NOW
-
-```
-> designing an MNIST classifier from raw NumPy — no Keras, no shortcuts
-> studying backend architecture patterns for high-throughput systems
-> mapping network layers with Wireshark, Nmap, Burp Suite, Scapy, Ettercap
-> living inside Arch + Hyprland, two years and counting
-```
-
-<br/>
-
-## 04 — STACK
-
-<div align="center">
-
-| Layer | Tools |
-|---|---|
-| **Languages** | Python · C · C++ |
-| **Backend** | FastAPI |
-| **ML / DL** | NumPy · TensorFlow · Scikit-Learn |
-| **Security** | Wireshark · Nmap · Burp Suite · Scapy · Ettercap |
-| **Environment** | Arch Linux · Hyprland · Ubuntu |
-
-</div>
-<br/>
-<p align="left">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- Frameworks & Data Science -->
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B80000?style=for-the-badge&logo=jinja&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- Systems & Networking -->
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</p>
-
-
-## 05 — ACTIVITY
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=00000000&stroke=2b2b2b&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=8a8a8a&dates=8a8a8a" alt="GitHub Streak Stats" width="70%"/>
-</div>
-
-<br/>
-
-
-## 06 — REACH ME
-
-<div align="center">
-
-<a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E5E5E5" /></a>
-<a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/TWITTER-1a1a1a?style=for-the-badge&logo=x&logoColor=E5E5E5" /></a>
-<a href="mailto:sakxamydv@gmail.com"><img src="https://img.shields.io/badge/MAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E5E5E5" /></a>
-<a href="https://www.kaggle.com/sakxamydv"><img src="https://img.shields.io/badge/KAGGLE-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=E5E5E5" /></a>
-
-**site:** [sakshamyadav.info.np](https://www.sakshamyadav.info.np/)
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>curiosity, a little madness, and a lot of first principles.</sub>
-</div>
