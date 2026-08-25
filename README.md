@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------
 
 <div aling="left">
-<img   src="ascii-diagram (6).svg" width="400" height="400"/> </div>
+<img  src="ascii-diagram (6).svg" width="400" height="400"/> </div>
 
 
 <br/>
