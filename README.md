@@ -8,7 +8,7 @@
 <img src="GoldenOrder.png" height="200"/>
 </div>
 
-<div align="right">
+<div align="right-center">
 <img src="ascii-diagram (6).svg" width="400" height="400"/>
 </div>
                                                                                                     
