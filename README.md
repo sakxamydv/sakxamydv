@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------------------
 
-<div aling="left">
+<div style="margin-right: auto; margin-left: 0;">
 <img  src="ascii-diagram (6).svg" width="400" height="400"/> </div>
 
 
