@@ -35,7 +35,7 @@ I have a deep understanding of Python, C, and Linux, which I used as my main OS 
 
 And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of both.
 
-    </td>
+  </td>
   </tr>
 </table>
 
