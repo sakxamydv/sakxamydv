@@ -4,11 +4,13 @@
 
 ----------------------------------------------------------------------------------------
 
-
+<div align="left">
 <img src="GoldenOrder.png" height="200"/>
+</div>
 
-<img src="ascii-diagram (7).svg" width="400" height="400"/>
-
+<div align="right">
+<img src="ascii-diagram (6).svg" width="400" height="400"/>
+</div>
                                                                                                     
                                                                                                     
                                                                                                 
