@@ -63,45 +63,46 @@
 
 <br/>
 
-## 04 — STACK FROM THE VOID
+## 04 — STACK // DIGITAL NECROMANCY
 
 <div align="center">
 
-───────────────────────────────────────────────────────────────────
-"Static in the signal, silence in the shell."
-───────────────────────────────────────────────────────────────────
-
-
-| Layer | Spectrum |
-|:---:|:---|
-| **Low-Level** | `C` · `C++` · `Assembly Concepts` |
-| **High-Level** | `Python` · `FastAPI` · `PostgreSQL` |
-| **Cognition** | `NumPy` · `TensorFlow` · `Scikit-Learn` |
-| **Shadows** | `Wireshark` · `Nmap` · `Burp Suite` · `Scapy` |
-| **Substrate** | `Arch (Hyprland)` · `Ubuntu` |
+*“The sky above the port was the color of television, tuned to a dead channel... and from the ash of dead silicon, we summon.”*
 
 <br/>
 
-![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=666666)
-![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=666666)
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=666666)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=666666)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=666666)
-![Arch Linux](https://img.shields.io/badge/Arch-0D0D0D?style=for-the-badge&logo=arch-linux&logoColor=666666)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=666666)
-
-</div>
-</div>
-## 05 — ACTIVITY
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakxamydv&theme=dark&hide_border=true&background=00000000&stroke=2b2b2b&ring=E5E5E5&fire=E5E5E5&currStreakLabel=E5E5E5&sideLabels=8a8a8a&dates=8a8a8a" alt="GitHub Streak Stats" width="70%"/>
-</div>
+| Realm | Spectral Conduit |
+|:---|:---|
+| **Primary Runes** | `C` · `C++` · `Python` |
+| **Daemon Architectures** | `FastAPI` · `PostgreSQL` · `Jinja` |
+| **Machine Cognition** | `NumPy` · `TensorFlow` · `Scikit-Learn` |
+| **Cyber-Offensive** | `Wireshark` · `Nmap` · `Burp Suite` · `Scapy` · `Ettercap` |
+| **Sub-Kernel Constructs** | `Arch (Hyprland)` · `Ubuntu` |
 
 <br/>
 
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5D4)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F5D4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4)
 
+<!-- Backend & AI -->
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5D4)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F5D4)
+![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F5D4)
+
+<!-- Offensive & OS -->
+![Arch Linux](https://img.shields.io/badge/Arch--Linux-0D1117?style=for-the-badge&logo=arch-linux&logoColor=00F5D4)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=00F5D4)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00F5D4)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5D4)
+
+<br/>
+
+<sub>`0x00000000` — *Raising memory from the dead dump.*</sub>
+
+</div>
 ## 06 — REACH ME
 
 <div align="center">
