@@ -113,17 +113,21 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E5E5E5" /></a>
-<a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/TWITTER-1a1a1a?style=for-the-badge&logo=x&logoColor=E5E5E5" /></a>
-<a href="mailto:sakxamydv@gmail.com"><img src="https://img.shields.io/badge/MAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=E5E5E5" /></a>
-<a href="https://www.kaggle.com/sakxamydv"><img src="https://img.shields.io/badge/KAGGLE-1a1a1a?style=for-the-badge&logo=kaggle&logoColor=E5E5E5" /></a>
-
-**site:** [sakshamyadav.info.np](https://www.sakshamyadav.info.np/)
-
-</div>
+### 📬 Got an interesting problem to solve? Let’s connect.
 
 <br/>
 
-<div align="center">
-<sub>curiosity, a little madness, and a lot of first principles.</sub>
+<a href="https://linkedin.com/in/saksham-yadav-684042378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/sakxamydv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.kaggle.com/sakxamydv"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+⚡ **Personal Site:** [`sakshamyadav.info.np`](https://www.sakshamyadav.info.np/)
+
+<br/>
+
+<sub><i>curiosity, a little madness, and a lot of first principles.</i></sub>
+
 </div>
