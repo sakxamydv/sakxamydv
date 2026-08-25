@@ -7,8 +7,7 @@
 
 <img src="GoldenOrder.png" height="200"/>
 
-
-                                                                                                                                                        
+<p height="200">                                                                                                                                                        
                                                                                                                                                         
                                                                                                                                                         
                                                                                                                                                         
@@ -76,7 +75,7 @@
                    rzzto¼ó3Ìt¼Ï£0ó(¦+Ïó½L™&55ô&™©££££££VV£ùa&ôôô5õ4õ5aùaü0sIsùYÍÍ£©ù™ù£±ÏÏLLL3ÏÏVùù©Ì‡vt¼‰%ìzrtƒ‰£V¼sV00££©Ïztzö@ƒl>ív=!‹               
                  “i1tƒvînLLÏöJ30n[|*3ós0ó3£ù&aç££YY©ùù©©©ùü&ôôôô55555üçô44xµTy©Ì3Yüaaù©3óV£VÍL3Í£ù™™©3zƒz¢r*ö0@%@özozu£0V£™£%î=sÍó%ì[iïí*º              
                 »rtrII>IL©LÌöczuî}l3L3óv%3V©ùùùùùùùù™aaaa&ô5õ5555ô&aù0£&4OU9SyùÏÍüô&5&0ÌÌLÍÍÍÍÍÍV©™™ùùVósöï{óYVuL‡I*ívöVVYù@ío=z3Ìu1[*?>l[}             
-
+</p>
 
 
 <br/>
