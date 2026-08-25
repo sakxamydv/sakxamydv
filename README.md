@@ -63,11 +63,11 @@
 
 <br/>
 
-## 04 — STACK // DIGITAL NECROMANCY
+## 04 — STACK
 
 <div align="center">
 
-*“The sky above the port was the color of television, tuned to a dead channel... and from the ash of dead silicon, we summon.”*
+
 
 <br/>
 
@@ -100,7 +100,6 @@
 
 <br/>
 
-<sub>`0x00000000` — *Raising memory from the dead dump.*</sub>
 
 </div>
 
