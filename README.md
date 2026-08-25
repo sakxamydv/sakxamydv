@@ -30,7 +30,8 @@
     <td width="60%" valign="top">
 
 <br>
-<p style="color: orange">Name</p>Saksham Yadav
+Saksham Yadav
+<br>
 
 Just a guy who wants to learn everything from First Principles. I started my coding journey about 6 years ago with basic HTML and CSS, built a few static websites, and then shifted my focus to learning and mastering the fundamentals of C.
 
