@@ -22,29 +22,30 @@
 <br/>
 
 ## 01 — WHO
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="35%" align="center" valign="top">
+      <br/>
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
+      <h3>Saksham Yadav</h3>
+      <p><i>Learning computer science from first principles.</i></p>
 
-<br>
-Saksham Yadav
-<br>
+      <p>
+        Coding for 6+ years—starting with web basics before grounding my foundation in 
+        <b>C</b>, <b>Python</b>, and daily-driving <b>Linux</b> (Ubuntu & Arch/Hyprland) for 2+ years.
+      </p>
 
-Just a guy who wants to learn everything from First Principles. I started my coding journey about 6 years ago with basic HTML and CSS, built a few static websites, and then shifted my focus to learning and mastering the fundamentals of C.
-
-I have a deep understanding of Python, C, and Linux, which I used as my main OS for 2 years straight (Ubuntu & Arch with Hyprland). During that time, I explored Cybersecurity and Networking, getting hands on with tools like Wireshark, Burp Suite, Nmap, John the Ripper, Metasploit, Scapy, Ettercap, and the OSINT Framework. I've studied and practiced concepts like XSS, AuthN & AuthZ, SQLi, RATs, Reverse Shells, MitM, Session token theft, Subnetting, OSI model, TCP/UDP, ARP poisoning, and Encapsulation.
-
-And Right Now, I am mastering BACKEND and ML/DL/NLP/CV To make the best out of both.
-
-  </td>
+      <b>Core Technical Domains</b>
+      <ul>
+        <li><b>Security & Networking:</b> Wireshark, Nmap, Burp Suite, Metasploit, Scapy, OSINT Framework, MitM, XSS, SQLi, AuthN/AuthZ, TCP/IP, OSI Model</li>
+        <li><b>Current Focus:</b> Backend Engineering & Applied AI (ML / DL / NLP / CV)</li>
+      </ul>
+    </td>
   </tr>
 </table>
-
-<br/>
-
 
 
 
