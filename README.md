@@ -28,7 +28,9 @@
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
     <td width="60%" valign="top">
-Hi, I am Saksham Yadav
+
+
+-------------------------Saksham Yadav
 
 Just a guy who wants to learn everything from First Principles. I started my coding journey about 6 years ago with basic HTML and CSS, built a few static websites, and then shifted my focus to learning and mastering the fundamentals of C.
 
