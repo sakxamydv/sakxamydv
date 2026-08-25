@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="top">
+    <td width="45%" align="center" valign="top">
       <br/>
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
