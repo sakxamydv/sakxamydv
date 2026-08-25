@@ -7,7 +7,7 @@
 
 <img src="GoldenOrder.png" height="200"/>
 
-<img src="ascii-diagram (3).svg" width="400"/>
+<img src="ascii-diagram (4).svg" width="400"/>
 
                                                                                                     
                                                                                                     
