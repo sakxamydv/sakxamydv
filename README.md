@@ -63,46 +63,34 @@
 
 <br/>
 
-## 04 — ARSENAL & ASHE
+## 04 — STACK FROM THE VOID
 
 <div align="center">
 
-*Tools forged in isolation, carried into the dark.*
+───────────────────────────────────────────────────────────────────
+"Static in the signal, silence in the shell."
+───────────────────────────────────────────────────────────────────
+
+
+| Layer | Spectrum |
+|:---:|:---|
+| **Low-Level** | `C` · `C++` · `Assembly Concepts` |
+| **High-Level** | `Python` · `FastAPI` · `PostgreSQL` |
+| **Cognition** | `NumPy` · `TensorFlow` · `Scikit-Learn` |
+| **Shadows** | `Wireshark` · `Nmap` · `Burp Suite` · `Scapy` |
+| **Substrate** | `Arch (Hyprland)` · `Ubuntu` |
 
 <br/>
 
-| Domain | Instruments |
-|:---|:---|
-| **Core Systems** | `C` · `C++` · `Python` |
-| **Backend Architecture** | `FastAPI` · `PostgreSQL` · `Jinja` |
-| **Intelligence / DL** | `NumPy` · `TensorFlow` · `Scikit-Learn` |
-| **Offensive & Defensive** | `Wireshark` · `Nmap` · `Burp Suite` · `Scapy` · `Ettercap` |
-| **Isolation Chamber** | `Arch Linux` · `Hyprland` · `Ubuntu` |
+![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=666666)
+![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=666666)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=666666)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=666666)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=666666)
+![Arch Linux](https://img.shields.io/badge/Arch-0D0D0D?style=for-the-badge&logo=arch-linux&logoColor=666666)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=666666)
 
-<br/>
-
-<!-- Languages -->
-![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=888888)
-![C++](https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=c%2B%2B&logoColor=888888)
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=888888)
-
-<!-- Frameworks & Data Science -->
-![FastAPI](https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=888888)
-![Jinja](https://img.shields.io/badge/Jinja-121212?style=for-the-badge&logo=jinja&logoColor=888888)
-![NumPy](https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=888888)
-![Kaggle](https://img.shields.io/badge/Kaggle-121212?style=for-the-badge&logo=kaggle&logoColor=888888)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=888888)
-
-<!-- Systems & Security -->
-![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=888888)
-![Arch Linux](https://img.shields.io/badge/Arch--Linux-121212?style=for-the-badge&logo=arch-linux&logoColor=888888)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-121212?style=for-the-badge&logo=ubuntu&logoColor=888888)
-![Wireshark](https://img.shields.io/badge/Wireshark-121212?style=for-the-badge&logo=wireshark&logoColor=888888)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=888888)
-
-<br/>
-<sub><i>"We build in the shadow of what came before."</i></sub>
-
+</div>
 </div>
 ## 05 — ACTIVITY
 
