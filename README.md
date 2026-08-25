@@ -113,7 +113,7 @@
 
 <div align="center">
 
-### 📬 Got an interesting problem to solve? Let’s connect.
+### Have any thing to make or break ?
 
 <br/>
 
@@ -123,8 +123,7 @@
 <a href="mailto:sakxamydv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
-
-⚡ **Personal Site:** [`sakshamyadav.info.np`](https://www.sakshamyadav.info.np/)
+**Personal Site:** [`sakshamyadav.info.np`](https://www.sakshamyadav.info.np/)
 
 <br/>
 
