@@ -7,7 +7,7 @@
 
 <img src="GoldenOrder.png" height="200"/>
 
-<p height="200">                                                                                                                                                        
+<p height="100">                                                                                                                                                        
                                                                                                                                                         
                                                                                                                                                         
                                                                                                                                                         
