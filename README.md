@@ -40,7 +40,7 @@
 
   <b>Core Technical Domains</b>
       <ul>
-        <li><b>Security & Networking:</b> Wireshark, Nmap, Burp Suite, Metasploit, Scapy, OSINT Framework, MitM, XSS, SQLi, AuthN/AuthZ, TCP/IP, OSI Model</li>
+        <li><b>Security & Networking:</b> Wireshark, Nmap, Burp Suite, Metasploit, Scapy, OSINT Framework, MitM, XSS, SQLi, AuthN/AuthZ, TCP/IP, OSI Model.</li>
         <li><b>Current Focus:</b> Backend Engineering & Applied AI (ML / DL / NLP / CV)</li>
       </ul>
     </td>
