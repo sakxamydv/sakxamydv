@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=E5E5E5&center=true&vCenter=true&width=600&lines=SAKSHAM+YADAV;BACKEND+%2F+ML+%2F+SYSTEMS;BUILT+FROM+FIRST+PRINCIPLES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=E5E5E5&center=true&vCenter=true&width=600&lines=SAKSHAM+YADAV;BACKEND+%2F+ML+%2F+SYSTEMS;Hello+,+friend!" alt="Typing SVG" />
 
 ----------------------------------------------------------------------------------------
 <div align="center">
@@ -30,8 +30,8 @@
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
     <td width="60%" valign="top">
-      <h3>Hello, friend</h3>
-      <p><i>Saksham Yadav ,Learning computer science from first principles.</i></p>
+      <h3>Saksham Yadav</h3>
+      <p><i>Learning computer science from first principles.</i></p>
 
  <p>
         Coding for 6+ years—starting with web basics before grounding my foundation in 
