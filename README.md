@@ -30,8 +30,8 @@
       <img src="ascii-diagram (6).svg" width="100%"/>
     </td>
     <td width="60%" valign="top">
-      <h3>Saksham Yadav</h3>
-      <p><i>Learning computer science from first principles.</i></p>
+      <h3>Hello, friend</h3>
+      <p><i>Saksham Yadav ,Learning computer science from first principles.</i></p>
 
  <p>
         Coding for 6+ years—starting with web basics before grounding my foundation in 
